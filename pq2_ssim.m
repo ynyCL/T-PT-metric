@@ -1,16 +1,6 @@
 function Q = pq2_ssim( I1, I2 , param)
-% SSIM using perceptually uniform space 
-%
+% Adapted from
 % Q = qm_pu2_ssim( I1, I2 )
-%
-% I1, I2 - two HDR images. They must contain absolute luminance values.
-%
-% This metric is meant to be used with display-referred images - the
-% image values much correspond to the luminance emitted from the target 
-% HDR display.
-%
-% The details on the metric can be found in:
-%
 % Aydın, T. O., Mantiuk, R., & Seidel, H.-P. (2008). Extending quality
 % metrics to full luminance range images. Proceedings of SPIE (p. 68060B–10). 
 % SPIE. doi:10.1117/12.765095
