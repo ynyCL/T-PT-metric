@@ -12,7 +12,7 @@ All rights reserved. If you find any part of this code useful, please cite the p
         booktitle={2018 25th IEEE International Conference on Image Processing (ICIP)}, 
         pages={1718-1722}, 
         year={2018}
-        keywords={Transforms;Encoding;Partial transmit sequences;Dynamic range;Image quality;Mathematical model;Image quality assessment;high dynamic range;perceptually uniform encoding},  
+        keywords={Transforms;Encoding;Partial transmit sequences;Dynamic range;Image quality;Mathematical model;Image      quality assessment;high dynamic range;perceptually uniform encoding},  
 doi={10.1109/ICIP.2018.8451207},  
 ISSN={2381-8549},  
 month={Oct},}
